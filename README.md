@@ -33,7 +33,7 @@ configuring Active Directory, Splunk, Windows machines, and Kali Linux within a 
   <img src="https://img.shields.io/badge/-Windows%20Server%202022-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server 2022">
   <img src="https://img.shields.io/badge/-Ubuntu%20Server-994d00?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server">
   <img src="https://img.shields.io/badge/-Crowbar-009900?&style=for-the-badge&logo=crowbar&logoColor=white" alt="Crowbar">
-  <img src="https://img.shields.io/badge/-Microsoft%20Defender-4D4D4D?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender">
+  <img src="https://img.shields.io/badge/-Microsoft%20Defender-800080?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender">
 </div>
 
 ## Steps
