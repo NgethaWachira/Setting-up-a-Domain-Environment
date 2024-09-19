@@ -37,7 +37,12 @@ configuring Active Directory, Splunk, Windows machines, and Kali Linux within a 
 </div>
 
 ## Steps
+I created a diagram to logically map out our lab's layout and hardware requirements. This diagram will help me understand data flow 
+from one system to another and how all the components fit together.
 
+<p align="center">
+<img src="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/blob/a0f3edadb0f52cdf430d36ad88db3f38ce9d3637/Images/sandboxing.PNG" width="700" />
+</p>
 
 
 
